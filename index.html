@@ -68,12 +68,12 @@ layout: default
             <div>
                 <section>
                     <h2>Get in touch</h2>
-                    <form method="post" action="#">
+                    <form action="https://formspree.io/{{ site.email }}" method="post">
                         <div class="field half first">
                             <input type="text" name="name" id="name" placeholder="Name"/>
                         </div>
                         <div class="field half">
-                            <input type="text" name="email" id="email" placeholder="Email"/>
+                            <input type="email" name="email" id="email" placeholder="Email"/>
                         </div>
                         <div class="field">
                             <textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
@@ -82,6 +82,7 @@ layout: default
                             <li><input type="submit" value="Send" class="special"/></li>
                             <li><input type="reset" value="Reset"/></li>
                         </ul>
+                        <input type="text" name="_gotcha" style="display:none" />
                     </form>
                 </section>
             </div>
