@@ -1,21 +1,19 @@
 # Base configs
-baseurl: "https://robertoreale.me/photography"
+baseurl: "https://robertoreale.me/leakedshots"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics:
 
 # UI configs
-title: "Photography by Roberto Reale"
-subtitle: "My portfolio of photography projects."
+title: "Leaked Shots"
+subtitle: "My photography project."
 author: "Roberto Reale"
-email: "rober.reale@gmail.com"
+email: "rober.reale+leakedshots@gmail.com"
 bio: "My name is Roberto Reale, and my projects center around portraits, street photography, and architecture."
 license: "All the pictures are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 web_design: "AJ"
 social_urls:
-  facebook: "https://www.facebook.com/rober.reale"
-  twitter: "https://www.twitter.com/roberto_reale"
-  instagram: "https://www.instagram.com/rober.reale"
-  dribbble: "https://dribbble.com/robertoreale"
-  linkedin: "https://in.linkedin.com/in/robertoreale"
-  github: "https://www.github.com/robertoreale"
+  facebook: "https://www.facebook.com/leakedshots"
+  twitter: "https://www.twitter.com/leakedshots"
+  instagram: "https://www.instagram.com/leakedshots"
+  github: "https://www.github.com/robertoreale/leakedshots""
