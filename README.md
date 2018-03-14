@@ -1,6 +1,6 @@
 # Leaked Shots
 
-[Leaked Shots](https://robertoreale.me/leakedshots) is an ongoing project in street photography. The live site is built upon [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/), together with the [Photography](https://github.com/ramswaroop/photography) theme by [ramswaroop](https://github.com/ramswaroop).
+[Leaked Shots](https://leakedshots.com) is an ongoing project in street photography. The live site is built upon [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/), together with the [Photography](https://github.com/ramswaroop/photography) theme by [ramswaroop](https://github.com/ramswaroop).
 
 You can also check out the companion [Flickr](https://www.flickr.com/people/roberto_reale) profile or [Instagram](https://www.instagram.com/leakedshots) account.
  
