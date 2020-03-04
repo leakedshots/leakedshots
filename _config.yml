@@ -2,7 +2,7 @@
 baseurl: "https://leakedshots.reale.me"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: UA-106097714-4
+google_analytics:
 
 # UI configs
 title: "Leaked Shots"
