@@ -1,6 +1,6 @@
 # Leaked Shots
 
-![Uptime Robot](https://img.shields.io/uptimerobot/status/m780119127-bfaaaeb4547f3ccb8deef669)
+![Uptime Robot](https://img.shields.io/uptimerobot/status/m788022455-2121a3d98cc60f150c95ef18)
 
 [Leaked Shots](https://leakedshots.reale.me) is an ongoing project in street photography. The live site is built upon [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/), together with the [Photography](https://github.com/ramswaroop/photography) theme by [ramswaroop](https://github.com/ramswaroop).
 
